@@ -1,6 +1,6 @@
 {
   "name": "set-filter",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Filter a ES6 Set",
   "main": "index.js",
   "scripts": {
