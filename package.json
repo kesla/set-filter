@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/kesla/set-filter#readme",
   "devDependencies": {
-    "miclint": "^2.0.0",
+    "miclint": "^3.0.0",
     "snazzy": "^5.0.0",
     "tapava": "^2.3.0"
   }
